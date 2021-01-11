@@ -3,13 +3,13 @@
 	"name": "Cake", "ppu": 0.55,
 	"batters": {
 		"batter": [
-      
-		 { "id": "1", "type": "Regular", "rating": 5 },
-		 { "id": "2", "type": "Chocolate", "rating": 3.4 },
-		 { "id": "7", "type": "Chocolate", "rating": 8 },
-		 { "id": "3", "type": "Blueberry", "rating": 5 },
-		 { "id": "4", "type": "Devil's Food", "rating": 6.2 }
 
+		 { "id": "1", "type": "Regular", "rating": 2 },
+		 { "id": "2", "type": "Dark Chocolate", "rating": 8 },
+		 { "id": "3", "type": "Blueberry", "rating": 5 },
+     { "id": "9", "type": "Milk chocolate", "rating":7},
+		 { "id": "7", "type": "Chocolate", "rating": 8 },
+		 { "id": "4", "type": "Devil's Food", "rating": 6.2 }
 		]
 
 	},
